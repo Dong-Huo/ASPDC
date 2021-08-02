@@ -29,7 +29,6 @@ def parse_args():
     parser.add_argument('--lambda_A', type=float, default=1.0, help='weight of pixel loss')
     parser.add_argument('--lambda_B', type=float, default=0.1, help='weight of cycle loss')
     parser.add_argument('--isTrain', type=bool, default=True)
-    parser.add_argument('--gan_type', type=str, default='ragan-ls', help='the type of gan loss')
     parser.add_argument('--log_dir', type=str, default='deblurring_log')
     parser.add_argument('--trainset_dir', type=str, default='/home/dong/exp_data/GOPRO_Large/train/')
 
