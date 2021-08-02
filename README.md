@@ -1,6 +1,6 @@
-# Blind Non-Uniform Motion Deblurring using Atrous Spatial Pyramid Deformable Convolution and Deblurring-Reblurring Consistenc
+# Blind Non-Uniform Motion Deblurring using Atrous Spatial Pyramid Deformable Convolution and Deblurring-Reblurring Consistency
 
-Code for this paper [Blind Non-Uniform Motion Deblurring using Atrous Spatial Pyramid Deformable Convolution and Deblurring-Reblurring Consistenc](https://arxiv.org/abs/2106.14336)
+Code for this paper [Blind Non-Uniform Motion Deblurring using Atrous Spatial Pyramid Deformable Convolution and Deblurring-Reblurring Consistency](https://arxiv.org/abs/2106.14336)
 
 Dong Huo, Abbas Masoumzadeh, Yee-Hong Yang
 
