@@ -34,6 +34,7 @@ The datasets for training can be downloaded via the links below:
 ## Prerequisites
 - Python 3.8 
 - PyTorch 1.9.0
+- mmcv-full 1.3.9
 - Requirements: opencv-python, albumentations
 - Platforms: Ubuntu 20.04, RTX 2080 Ti, cuda-11.1
 
