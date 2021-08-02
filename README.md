@@ -12,9 +12,16 @@ Many deep learning based methods are designed to remove non-uniform (spatially v
 
 <p align="center">
   <img width="800" src="./images/a1.png">
+</p>
+
+<p align="center">
   <img width="400" src="./images/a2.png">
+</p>
+
+<p align="center">
   <img width="400" src="./images/a3.png">
 </p>
+
 
 
 ## Datasets
