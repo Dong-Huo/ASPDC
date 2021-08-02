@@ -14,6 +14,10 @@ Many deep learning based methods are designed to remove non-uniform (spatially v
 ![](./images/a2.png =125x)
 ![](./images/a3.png =125x)
 
+<img src="./images/a1.png" width="200">
+<img src="./images/a2.png" width="100">
+<img src="./images/a3.png" width="100">
+
 
 ## Datasets
 
