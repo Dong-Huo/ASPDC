@@ -10,13 +10,9 @@ Many deep learning based methods are designed to remove non-uniform (spatially v
 
 ## Architecture
 
-![](./images/a1.png =250x)
-![](./images/a2.png =125x)
-![](./images/a3.png =125x)
-
-<img src="./images/a1.png" width="200">
-<img src="./images/a2.png" width="100">
-<img src="./images/a3.png" width="100">
+<img align="center" src="./images/a1.png" width="800">
+<img align="center" src="./images/a2.png" width="400">
+<img align="center" src="./images/a3.png" width="400">
 
 
 ## Datasets
