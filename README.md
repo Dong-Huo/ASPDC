@@ -10,7 +10,9 @@ Many deep learning based methods are designed to remove non-uniform (spatially v
 
 ## Architecture
 
-![](./doc_images/pipeline.jpg)
+![](./images/a1.png)
+![](./images/a2.png)
+![](./images/a3.png)
 
 
 ## Datasets
