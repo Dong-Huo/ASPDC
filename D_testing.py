@@ -18,15 +18,6 @@ from skimage.metrics import structural_similarity, peak_signal_noise_ratio
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--device', type=str, default='cuda')
-    parser.add_argument('--batch_size', type=int, default=1)
-    parser.add_argument('--max_kernel_width', type=float, default=0.3)
-    parser.add_argument('--min_kernel_width', type=float, default=0.2)
-    parser.add_argument('--gamma', type=float, default=0.5)
-    parser.add_argument('--kernel_size', type=int, default=15)
-    parser.add_argument('--lr', type=float, default=1.25e-5, help='initial learning rate')
-    parser.add_argument('--num_iteration', type=int, default=1, help='')
-    parser.add_argument('--n_epochs', type=int, default=120, help='number of epochs to train')
-    parser.add_argument('--n_steps', type=int, default=20, help='number of epochs to update learning rate')
     parser.add_argument('--testset_dir', type=str, default='/home/dong/exp_data/GOPRO_Large/test/')
 
     return parser.parse_args()
