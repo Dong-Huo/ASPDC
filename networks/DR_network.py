@@ -117,12 +117,12 @@ class Whole_Network:
         save_ckpt({
             'epoch': idx_epoch + 1,
             'deblurring_state_dict': self.deblurring_net.state_dict(),
-        }, save_path='deblurring_models/', filename='DeblurringNet_FT.pth')
+        }, save_path='final_model/', filename='DeblurringNet_FT.pth')
 
     def load_state(self):
 
-        pretrained_dict = torch.load('deblurring_models/DeblurringNet_NF.pth')
+        pretrained_dict = torch.load('final_model/DeblurringNet_NF.pth')
         self.deblurring_net.load_state_dict(pretrained_dict['deblurring_state_dict'])
 
-        pretrained_dict2 = torch.load('blurring_models/ReBlurringNet.pth')
+        pretrained_dict2 = torch.load('final_model/ReBlurringNet.pth')
         self.blurring_net.load_state_dict(pretrained_dict2['blurring_state_dict'])
