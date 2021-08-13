@@ -53,7 +53,7 @@ Download the well-trained [models](https://drive.google.com/file/d/14He_BWFMDDSa
 - DeblurringNet_NF.pth: the model of deblurring network without fine-tuning
 - DeblurringNet_NF.pth: the model of deblurring network fine-tuned with reblurring loss
 
-Baidu netdisk user can also download the model from [link](https://pan.baidu.com/s/1sGuaSG-5VAzZ5AQ8ANkL5w)  with password: tkc9
+Baidu netdisk users can also download the model from [link](https://pan.baidu.com/s/1sGuaSG-5VAzZ5AQ8ANkL5w)  with password: tkc9
 
 ## Citation
 
