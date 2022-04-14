@@ -2,7 +2,7 @@
 
 Code for this paper [Blind Non-Uniform Motion Deblurring using Atrous Spatial Pyramid Deformable Convolution and Deblurring-Reblurring Consistency](https://arxiv.org/abs/2106.14336)
 
-Dong Huo, Abbas Masoumzadeh, Yee-Hong Yang
+[Dong Huo](https://scholar.google.com/citations?user=adUfxKkAAAAJ&hl=en), [Abbas Masoumzadeh](https://abbasmz.github.io/), [Yee-Hong Yang](http://webdocs.cs.ualberta.ca/~yang/)
 
 ## Overview
 
