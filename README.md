@@ -55,10 +55,6 @@ Download the well-trained [models](https://drive.google.com/file/d/14He_BWFMDDSa
 
 Baidu netdisk users can also download the model from [link](https://pan.baidu.com/s/1sGuaSG-5VAzZ5AQ8ANkL5w)  with password: tkc9
 
-## Visualization
-
-https://user-images.githubusercontent.com/9403096/163700304-fe77d17f-b9a4-4b28-a35f-743827e53a38.mp4
-
 
 ## Citation
 
