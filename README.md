@@ -71,3 +71,9 @@ If you use this code for your research, please cite our paper.
 
 ```
 
+## Poster
+
+<p align="center">
+  <img width="800" src="./images/poster.png">
+</p>
+
