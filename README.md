@@ -62,11 +62,13 @@ If you use this code for your research, please cite our paper.
 
 ```
 
-@article{huo2021blind,
-  title={Blind Non-Uniform Motion Deblurring using Atrous Spatial Pyramid Deformable Convolution and Deblurring-Reblurring Consistency},
-  author={Huo, Dong and Masoumzadeh, Abbas and Yang, Yee-Hong},
-  journal={arXiv preprint arXiv:2106.14336},
-  year={2021}
+@InProceedings{Huo_2022_CVPR,
+    author    = {Huo, Dong and Masoumzadeh, Abbas and Yang, Yee-Hong},
+    title     = {Blind Non-Uniform Motion Deblurring Using Atrous Spatial Pyramid Deformable Convolution and Deblurring-Reblurring Consistency},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2022},
+    pages     = {437-446}
 }
 
 ```
