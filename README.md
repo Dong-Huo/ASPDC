@@ -48,7 +48,7 @@ Modify the arguments in parse_args()
 ## Testing
 
 ```python D_testing.py```
-Download the well-trained [models](https://drive.google.com/file/d/14He_BWFMDDSaUjSHlZgxaN72EPpvxpCe/view) in folder /final_model 
+Download the well-trained [models](https://drive.google.com/file/d/1wvalgfOk72psimSiu-awlBWaHW5EqYS6/view) in folder /final_model 
 - ReBlurringNet.pth: the model of reblurring network
 - DeblurringNet_NF.pth: the model of deblurring network without fine-tuning
 - DeblurringNet_NF.pth: the model of deblurring network fine-tuned with reblurring loss
